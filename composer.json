@@ -1,0 +1,17 @@
+{
+    "name": "huawenshengshi/loop",
+    "description": "loop",
+    "type": "project",
+    "require": {
+        "laravel/framework": "5.8.*",
+        "php": "^7.1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liubingzhe",
+            "email": "344529372@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

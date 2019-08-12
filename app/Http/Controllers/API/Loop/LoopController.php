@@ -11,6 +11,7 @@ use function Psy\bin;
 class LoopController extends BaseController
 {
     public function getLoopImg(){
+        echo 111;die;
         $loop_img_info = DB::table('loop_img')
             ->select('name','path','ignore','endpoint')
             ->get();
